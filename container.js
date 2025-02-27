@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Example Alert Script (All Subdomains)
+// @name         Container
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Pops an alert on example.com and all its subdomains
-// @author       Your Name
+// @description  Novium Container
+// @author       Novium
 // @match        *://*.roblox.com/*
 // @grant        none
 // ==/UserScript==
